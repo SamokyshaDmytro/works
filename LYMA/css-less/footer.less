@@ -1,0 +1,211 @@
+//main: style.less
+
+footer{
+   padding: 96px 0;
+   background-color: @black_links_menu;
+}
+.column1{
+    max-width: 157px;
+}
+.column2{
+    
+    max-width: 152px;
+}
+.column3{
+    max-width: 116px;
+}
+.column4{
+    max-width: 167px;
+}
+.column5{
+    max-width: 366px;
+}
+.footerListBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-height: 241px;
+}
+.footerTittleForm{
+    padding-bottom: 42px;
+}
+.footerMenuMainLink{
+    padding-bottom: 40px;
+}
+.footerMenuMainLink  h3{
+    .montserrat;
+    font-size: 14px;
+    line-height: 20px;      
+    color: @white;
+    text-align: start;
+}
+.footerListBox ul li{
+    padding-bottom: 0;
+}
+.footerListBox ul li a{
+    .montserrat;
+    font-size: 12px;
+    line-height: 15px;
+    color: @footerLinks;
+    text-shadow: none;
+    transition: 0.3 all ease-in;
+        &:hover{
+            text-shadow: 0 0 10px #FFFFFF;
+        }
+}
+.footerListBox ul li .footerBuy{
+    color: @white;
+}
+.footerContentBox{
+    max-height: 241px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+
+.footerTittleForm h3{
+    .montserrat;
+font-size: 12px;
+line-height: 15px;
+letter-spacing: 2px;
+color: @white;
+}
+.footerFormBox{
+    height: 68px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding-bottom: 50px;
+}
+.footerFormBox a{
+    .montserrat;
+    font-size: 12px;
+    line-height: 15px;
+    color: @footerLinks;
+    text-shadow: none;
+    transition: 0.3 all ease-in;
+        &:hover{
+            text-shadow: 0 0 10px #FFFFFF;
+        }
+}
+
+// FORM
+
+#footerForm{
+    width: 366px;
+    display: flex;
+    flex-direction: row;
+}
+#formLink{
+    margin-bottom: 15px;
+}
+.footerFormBox input{
+    background-color: transparent;
+    width: 70%;
+    outline:none;
+    border: @white 1px solid;
+    border-bottom-left-radius: 2px;
+    border-top-left-radius: 2px;
+    border-right: none;
+    .montserrat;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: left;
+    color: @footerLinks;
+    padding: 12px;
+}
+.footerFormBox input::placeholder{
+    .montserrat;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: left;
+    color: @footerLinks;
+    padding: 12px;
+}
+.footerFormBox button{
+    border-right: @black_links_menu 1px solid ;
+    border-top: @black_links_menu 1px solid ;
+    border-bottom: @black_links_menu 1px solid ;
+    width: 30%;
+    padding: 12px;
+    .montserrat;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    color: @footerLinks;
+    padding: 12px;
+    transition: 0.5s all ease-out;
+        &:hover{
+            color: @black_links_menu;
+        }
+}
+
+.social{
+    padding-top: 50px;
+    padding-bottom: 17px;
+    width: 100%;
+}
+.social ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.social ul li{
+    padding-left: 25px;
+}
+.social ul li:first-child{
+    padding-left: 0;
+}
+
+#youtube{
+    .socialStyle;
+    font-size: 19px;
+    &:hover{
+      color: red;  
+    }
+    
+}
+#linkedin{
+    .socialStyle;
+    font-size: 19px;
+    &:hover{
+        background-color: #0077B5;
+    }
+}
+#facebook{
+    .socialStyle;
+    font-size: 22px;
+    padding-top: 4px;
+    &:hover{
+        background-color: #4267B2;
+    }
+    
+}
+#instagram{
+    .socialStyle;
+    font-size: 18px;
+    &:hover{
+        color: #C13584;
+    }
+}
+#pinterest{
+    box-sizing: border-box;
+    overflow: hidden;
+    .socialStyle;
+    font-size: 20px;
+    padding-top: 5px;
+    &:hover{
+        background-color: #E60023;
+    }
+    
+}
+
+.etc p{
+    .montserrat;
+    font-size: 10px;
+    line-height: 12px;
+    text-align: right;
+    color: @footerLinks;
+}

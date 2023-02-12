@@ -1,0 +1,62 @@
+//main:style.less
+
+.section-6{
+    padding: 104px 0 88px 0;
+    position: relative;
+}
+.slider{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+#slider_main{
+    position: relative;
+        @media (min-width: 1600px) {
+            max-width: 1280px;
+        }
+}
+
+.owl-dots{
+    padding-top: 25px;
+    width: 180px;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.owl-dot{
+    width: 10px;
+    height: 10px;
+    background-color: #AAAAAA;
+    font-size: 0;
+}
+
+.mainDot{
+    width: 10px;
+    height: 10px;
+    border: none;
+    background-color: #AAAAAA;
+}
+.owl-dot.active button{
+    background-color: black;
+  }
+.boxItem{
+    max-width: 395px;
+    margin: 0 auto;
+    height: 222px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.boxItem p{
+    .roboto;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.8px;
+}
+

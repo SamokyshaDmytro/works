@@ -1,0 +1,92 @@
+// compress: false, sourceMap:true
+@import '../css-less/vars.less';
+@import '../css-less/button.less';
+@import '../css-less/header.less';
+@import '../css-less/section-1.less';
+@import '../css-less/section-2.less';
+@import '../css-less/section-3.less';
+@import '../css-less/section-4.less';
+@import '../css-less/section-5.less';
+@import '../css-less/section-6.less';
+@import '../css-less/footer.less';
+
+*{
+	margin: 0;
+	padding: 0;
+}
+html, body {
+  height: 100%;
+}
+
+.for_page{
+  min-height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+li{
+  padding: 0;
+}
+p{
+  margin: 0;
+  padding: 0;
+}
+button{
+  border: none;
+  .montserrat;
+}
+button:focus{
+  outline: none;
+  box-shadow: none;
+}
+a{
+  text-decoration:  none;
+  color: @black_links_menu;
+  .montserrat;
+  cursor:  pointer;
+    &:hover{
+        text-decoration:  none;
+    }
+}
+img{
+	width: auto;
+	height: auto;
+	max-width: 100%;
+}
+.for-page {
+  min-height:  100%;
+  position:  relative;
+}
+
+h1 {
+  margin: 0;
+  .roboto;
+  font-size: 57px;
+  line-height: 67px;
+  text-align: center;
+  letter-spacing: 0.81px;
+  color: @white;
+}
+h2{
+  margin: 0;
+  .roboto;
+font-size: 38px;
+line-height: 43px;
+text-align: center;
+letter-spacing: 0.2px;
+text-transform:  uppercase;
+color: @white;
+}
+h3{
+  margin: 0;
+  .roboto;
+  font-size: 34px;
+  line-height: 43px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  color: @white;
+}

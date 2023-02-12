@@ -1,0 +1,50 @@
+//main: style.less
+
+.section-5{
+    position: relative;
+    padding-top: 16px;
+    max-width: 1440px;
+    margin:  0 auto;
+}
+.s5BackgroundColor{
+    background-color: @s5Background;
+}
+.s5Background{
+    height: 430px;
+    background: url('../img/S5Image1.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.s5FlexBox{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 417px;
+}
+.s5FlexBox h3{
+padding-bottom: 33px;
+color: @black_s5;
+.roboto;
+font-size: 35px;
+line-height: 43px;
+letter-spacing: 0.5px;
+}
+.s5FlexBox p{
+color: @s5text;
+.montserrat;
+font-size: 16px;
+line-height: 25px;
+padding-bottom: 12px;
+}
+.s5FlexBox a{
+    .montserrat;
+    color: @black_s5;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
