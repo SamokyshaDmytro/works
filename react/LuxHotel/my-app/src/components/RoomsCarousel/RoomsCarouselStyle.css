@@ -1,0 +1,160 @@
+@import "../../../node_modules/react-alice-carousel/lib/alice-carousel.css";
+.CardWrap{
+  padding: 81px 15px 0px 15px;
+}
+.CardBox{
+height: fit-content;
+width: 100%;
+box-sizing: border-box;
+background: #FFFFFF;
+border: 2px solid #14274A;
+border-radius: 0px 0px 15px 15px;
+display: flex;
+flex-direction: column;
+}
+
+.alice-carousel{
+position: relative;
+width: 100%;
+height: 100%;
+max-height: 1067px;
+}
+
+.alice-carousel img{
+  background: #14274A;
+  opacity: 0.8;
+  transition: all 0.5s linear;
+}
+.alice-carousel img:hover{
+  background: #14274A;
+  opacity: 1;
+  transform: scale(1.02);
+}
+
+
+.alice-carousel__stage{
+
+}
+.alice-carousel__stage-item{
+
+}
+
+.alice-carousel__prev-btn{
+  display: none;
+}
+.alice-carousel__next-btn{
+  display: none;
+}
+
+
+.alice-carousel__play-btn{}
+.alice-carousel__play-btn-item{}
+
+.alice-carousel__dots{
+  position: absolute;
+  margin-bottom: 11%;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.alice-carousel__dots-item:not(.__custom) {
+    width: 20px ;
+height: 20px;
+background: transparent;
+border: 2px solid #FFFFFF ;
+}
+
+.alice-carousel__dots-item:not(.__custom):hover, .alice-carousel__dots-item:not(.__custom).__active {
+  width: 20px;
+height: 20px;
+background-color: #FFFFFF;
+border: 2px solid #FFFFFF;
+}
+
+
+.alice-carousel__slide-info{}
+.alice-carousel__slide-info-item{
+
+}
+
+
+.carouselBox{
+  width: 100%;
+  height: fit-content;
+  position: relative;
+  background: rgba(20, 39, 74, 1);
+}
+
+
+.RoomTitle{
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 141px;
+  max-height: 141px;
+  background-color: #14274A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: 2px solid #14274A;
+  border-right: 2px solid #14274A;
+}
+.RoomTitle p{
+    font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: calc(16px + 30 * (100vw / 1920));
+  color: #FFFFFF;
+  transition: all 0.5s linear;
+}
+.priceBox{
+  height: 237px;
+}
+.priceBoxFlex{
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.ViewRoom{
+  display: flex;
+  justify-content: space-between;
+align-items: center;
+
+}
+.BsFillPlusCircleFill{
+  width: 51px;
+  height: 51px;
+  color: #E0B973;
+  font-size: 30px;
+}
+.ViewRoomLink{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+color: #14274A;
+padding-left: 40px;
+}
+
+.priceButton{
+  background: #E0B973;
+border-radius: 10px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+color: #FFFFFF;
+padding: 24px 43px;
+transition: all 0.4s linear;
+}
+.priceButton:hover{
+background: #ebab34;
+}

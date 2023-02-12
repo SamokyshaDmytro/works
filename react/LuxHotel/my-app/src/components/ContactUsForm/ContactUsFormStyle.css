@@ -1,0 +1,165 @@
+.form-Box{
+    display: flex;
+    flex-direction: column;
+}
+.contactText{
+    display: flex;
+    flex-direction: column;
+    padding: 261px 0 167px 0;
+    margin: 0 15px;
+}
+.contactText h3{
+    font-family: 'Adobe Garamond Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: calc(24px + 36 * (100vw / 1920));
+    line-height: 72px;
+    color: #14274A;    
+    padding-bottom: 6px;
+}
+.contactText p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    color: #14274A;
+}
+
+.MainFormBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.contacts{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    max-width: 653px;
+    padding: 0 15px 0 15px;
+}
+.contacts p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    padding-bottom: 28px;
+    color: #14274A;
+}
+.contBtn{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 54px;
+}
+.contacts button{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+    color: #14274A;
+
+    margin-right: 30px;
+    transition: all 0.5s linear;
+}
+
+.contacts button:hover{
+animation: btnCont 0.5s infinite alternate;
+}
+@keyframes btnCont {
+    from {
+        margin-right: 30px;
+    }
+    to {
+        margin-right: 50px;
+    }
+}
+.contacts a{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    color: #14274A;
+}
+.FormContact{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.FormContact form{
+    display: flex;
+    flex-direction: column;
+}
+.inputBox{
+    display: flex;
+    flex-direction: column;
+}
+.FormContact label{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    color: #14274A;
+}
+.FormContact input{
+    box-sizing: border-box;
+    width: 570px;
+    height: 78px;
+    background: #FFFFFF;
+    border: 2px solid rgba(20, 39, 74, 0.5);
+    margin-top: 8px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    padding: 10px;
+}
+/* #name{
+
+}
+#mail{
+
+} */
+#msg{
+    width: 570px;
+    height: 352px;
+    resize: none;
+    font-size: 25px;
+    padding: 10px;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 2px solid rgba(20, 39, 74, 0.5);
+    margin-top: 8px;
+    margin-bottom: 52px;
+}
+#contactFormBtn{
+    width: 145px;
+height: 78px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+background-color: #E0B973;
+border-radius: 7px;
+}
+.button{
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 463px;
+}
+
+#arrowRightContact{
+    width: 50px;
+    height: 50px;
+    font-size: 50px;
+    color: rgba(20, 39, 74, 1)
+}

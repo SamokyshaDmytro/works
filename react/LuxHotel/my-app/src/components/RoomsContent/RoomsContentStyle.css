@@ -1,0 +1,102 @@
+.container{
+  max-width: 1604px;
+  margin: 0 auto;
+}
+.FacilitiesContent{
+  padding-top: 40px;
+
+}
+.FacilitiesContentTittle{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 0;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.FacilitiesContentTittle h2{
+  font-family: 'Adobe Garamond Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: calc(24px + 36 * (100vw / 1920));
+  line-height: 72px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  color: #14274A;
+}
+.FacilitiesContentTittle p{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: calc(16px + 9 * (100vw / 1920));
+  line-height: 30px;
+  text-align: center;
+
+  color: #14274A;
+}
+.FacilitiesContentBox{
+  max-width: 1580px;
+  max-height: 1052px;
+  display: block;
+  padding:  0 15px 186px 15px;
+}
+
+.FacilitiesContent .lastFacilitiesContentBox{
+  padding:  0 15px 0 15px;
+}
+
+.FacilitiesContentIMG1{
+  max-width: 1580px;
+  max-height: 1052px;
+
+  position: relative;
+}
+
+
+.ImageF{
+  display: block;
+  object-fit: contain;
+  width: 100%;
+  transition-delay: 0.5s;
+  transition: all 0.5s liner;
+}
+.ImageFLayer{
+position: absolute;
+background: rgba(20, 39, 74, 0.3);
+width: 100%;
+top: 0;
+height: 100%;
+object-fit: contain;
+transition: all 0.5s ease-out;
+}
+
+.ImageFLayer:hover{
+  background: none;
+}
+.FacLinkBox{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%);
+  width: 684px;
+  height: 75px;
+  background: #FFFFFF;
+}
+.ImageFLayer a{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: calc(14px + 32 * (100vw / 1920));
+line-height: 59px;
+color: #14274A;
+transition: all 0.4s linear;
+}
+.ImageFLayer a:hover {
+color: #E0B973;
+}
+

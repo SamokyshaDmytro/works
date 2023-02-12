@@ -1,0 +1,93 @@
+
+
+
+
+
+.Burger-menuNav{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: flex-start;
+    padding: 1em;
+    display: none;
+    z-index: 500;
+}
+
+
+.burger-menu {
+    height: 70%;
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: all  0.3s linear;
+}
+.burger-menu:hover{
+    filter: drop-shadow(0px 0px 1px white);
+}
+
+.burger-bar {
+    width: 50px;
+    height: 5px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.5em;
+}
+
+.menu {
+    width: 100%;
+    height: 450px;
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    top: 125px;
+    left: 50%;
+    transform: translate(-50%, -55%);
+    z-index: 400;
+    flex-direction: column-reverse;
+    border-radius: 20px;
+}
+
+/* ------------- sliding menu ------------------ */
+.hidden {   
+    display: none;
+}
+
+.visible {
+    display: inherit;
+    animation: burgerAnima2 1s ease;
+}
+@keyframes burgerAnima2 {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+
+/* ----- animations--------- */
+/* clicked */
+.burger-bar.clicked:nth-child(1){
+    transform: rotate(45deg) translate(10px, 12px);
+    transition: ease-out 0.5s;
+}
+
+.burger-bar.clicked:nth-child(2){
+    transform: scale(0.1);
+    transition: ease-out 0.5s;
+}
+
+.burger-bar.clicked:nth-child(3){
+    transform: rotate(135deg) translate(-10px, 11px);
+    transition: ease-out 0.5s;
+}
+
+/* unclicked */
+.burger-bar.unclicked {
+    transform: rotate(0) translate(0);
+    transition: cubic-bezier(0.175, 0.885, 0.32, 1.275) 0.5s;
+}
+
+

@@ -1,0 +1,169 @@
+.containerFooter{
+    max-width: 1550px;
+    margin: 0 auto;
+}
+footer{
+    max-width: 100%;
+    background-color: #14274A;
+    box-sizing: border-box;
+    height: 100%;
+}
+.triangles{
+width: 100%;
+display: flex;
+}
+.triangle1{
+    width: 50%;
+    height: auto;
+background-color: transparent;
+border-top: 48px solid rgb(255, 255, 255); 
+border-right: 73px solid transparent; 
+}
+.triangle2{
+    width: 50%;
+    height: auto;
+  background-color: transparent;
+  border-top: 48px solid rgb(255, 255, 255); 
+  border-left: 73px solid transparent; 
+}
+.footerBox{
+    padding: 54px 0 66px 0;
+    min-height: 100%;
+    max-height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.footerFlex{
+height: 100%;
+display: flex;
+justify-content: space-between;
+padding: 15px;
+}
+.footerFlex ul{
+display: flex;
+flex-direction: column;
+}
+.footerFlex2 ul li {
+padding-bottom: 25px;
+}
+
+.adress{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #FFFFFF;
+}
+.footerFlex ul li a{
+    display: flex;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #F7F7F7;
+    transition: all 0.3s linear;
+}
+.footerFlex ul li a:hover{
+    text-shadow: 0px 0px 3px rgb(255, 255, 255);
+}
+.footerLogoAndAdress{
+    display: flex;
+    height: 100%;
+}
+.FooForLogo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    align-items: center;
+}
+.FooterInnerAgressFlex{
+    padding-top: 22px;
+}
+.FooForLogoP1{
+    font-family: 'Adobe Garamond Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 0.15em;
+}
+.FooForLogoP2{
+    font-family: 'Adobe Garamond Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 11px;
+    letter-spacing: 0.6em;
+}
+.Subscr{
+ font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF;
+padding-bottom: 29px;
+}
+
+.SubscForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.footerIcon{
+padding-right: 35px;
+
+}
+.SubscrEmail{
+    width: 280px;
+    height: 20px;
+    background: #14274A;
+    border: 2px solid #E0B973;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: #FFFFFF;
+    padding: 15px 25px 17px 25px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.SubscrEmail::placeholder{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    
+}
+.FooterSubmit{
+    cursor: pointer;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #14274A;
+background-color:#E0B973 ;
+display: block;
+width: 80px;
+height: 56px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+transition: all 0.4s linear;
+}
+.FooterSubmit:hover{
+ background-color: #e0a538;
+box-shadow: 0 0 1px #e0a538;
+}
+

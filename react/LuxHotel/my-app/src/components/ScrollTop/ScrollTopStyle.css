@@ -1,0 +1,28 @@
+
+    
+  .scroll {
+    opacity: 0.3;
+    background-color: #e0ba73;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }   
+    .scroll:hover {
+      opacity: 1;
+    }
+ 
+  
+  .arrow-up {
+    color: #14274A;
+    font-size: 25px;
+
+  }
+    

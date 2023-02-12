@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html, body {
+  height: 100%;
+
+}
+body{
+  font-family: 'montserrat_alternatesbold', 'montserrat_alternatesregular', 'Adobe Garamond Pro';
+  background: #FFFFFF;
+  overflow-x: hidden;
+
+}
+
+button {
+  cursor: pointer;
+}
+
+body ul {
+  list-style: none;
+}
+body a{
+  text-decoration: none;
+  cursor: pointer; 
+}
+body a:hover{
+  text-decoration: none;
+}
+body img{
+	width: auto;
+	height: auto;
+	max-width: 100%;
+}
+body input {
+  outline:none;
+}
+
+.for-page {
+  min-height: 100%;
+  position: relative;
+  overflow-x: hidden;
+}
+
+body button{
+  outline: none;
+  border: none;
+  background: transparent;
+}
+h1,
+h2,
+h3,
+p,
+a,
+button {
+  user-select: none;
+}
+

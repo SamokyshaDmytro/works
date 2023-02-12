@@ -1,0 +1,27 @@
+.scrollDownBox{
+    display: flex;
+    cursor: pointer;
+    justify-content: center;
+  }
+  .scrollDownFlex{
+    
+    width: 79px;
+    height: 106px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+    position: relative;
+  }
+  .scrollDownFlex p{
+    position: absolute;
+    font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  letter-spacing: 0.05em;
+  color: #FFFFFF;
+  top: 0;
+  }
