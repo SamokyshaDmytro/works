@@ -1,0 +1,743 @@
+{
+    "data":{
+        "blogs":[            
+            {
+                "id": 1,
+                "title": "Changing image resizing with the ImageMagick console utility",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/1.jpg",
+                "titleAlt": "image",
+                "content": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "link": "read more",
+                "isMainTextBlog": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "blogTexts": [
+                    {
+                        "text":"The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. " 
+                    },
+                    {
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": ""
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "How to learn new beginners easily",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/2.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                    "blogTexts": [
+                        {
+                            "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, and practice all your life for your chosen profession. Ale people are smart in unique tasks, in some kind of folding. It is especially worthwhile for the very quiet tasks, in which failures were experienced. And not far away, try to master a new, actually, warehouse way."
+                        },
+                        {
+                            "title": "Rossіyany and zoseredzheny operating mode",
+                            "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about.",
+                            "boldTextMain": "Memory itself will not give anything on its own. Tobto, obviously, as if you need a blatant manifestation, then the very same ones that give only a superficial hit to a blatant manifestation. Ale, as it is necessary to form the same work with technology, to read a new language - most of the dry material of the theory, just go through the pov.",
+                            "nextText": "It is my fault to focus on the very practical wisdom, and to gain theoretical knowledge in the context of current tasks."
+                        },
+                        {
+                            "title": "Emotions for new recruits",
+                            "text": "And here the emotions are overbearing. It’s not bad, as it’s not a dry presentation of the tone of the material, but a communication with practice, and the successful completion of small practical tasks calls out positive emotions. The joy of success in small croques on the basis of practical acquired theoretical material is the very factor that will help you to easily formulate a clear impression in the light of your knowledge and from operational memory to transfer fresh knowledge from a long time to remember that molding of steel new navik. Our brain is uniquely collapsible, more of optimizations to save resources, and for the concentration you need to work much more, lower for the rozsiyana work. It’s better to help him, and don’t turn on the zoseredzheny regime for whatever you can, depending on the specific task. Alas, it is not possible to prac- tice for a protected regime. An hour of effective and efficient work of the surroundings. Ale, zreshtoyu, to my own fault in the rossiyanom mode, I transferred the new novice from my operational short-line memory to the old friend. We don’t respect what we lazily procrastinate, we respect what matters to us. І tse - normal. In order to make the task of pratsyuvati zoseredzheno easier, it is necessary to increase the deprivation of those who are overwhelmed at the given moment. Chotiri admissible tasks, yakі є maximum for a person at one moment to an hour, best surround one, and make the learning process easier for your brain."
+                        },
+                        {
+                            "title": "What else can you do to help yourself?",
+                            "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                            "isBoldText": "Great help to shy away in small crumbs."
+                        }
+                    ]
+            },
+            {
+                "id": 3,
+                "title": "Creating Great Gutenberg WordPress Blocks",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/3.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+
+            },
+            {
+                "id": 4,
+                "title": "Is it procrastination?",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/4.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ..."
+            },
+            {
+                "id": 5,
+                "title": "Creation of an online store OpenCart 3x independently",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/5.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 1,
+                "title": "Changing image resizing with the ImageMagick console utility",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/1.jpg",
+                "titleAlt": "image",
+                "content": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "link": "read more",
+                "isMainTextBlog": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. "
+                    },
+                    {
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": ""
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "How to learn new beginners easily",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/2.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, and practice all your life for your chosen profession. Ale people are smart in unique tasks, in some kind of folding. It is especially worthwhile for the very quiet tasks, in which failures were experienced. And not far away, try to master a new, actually, warehouse way."
+                    },
+                    {
+                        "title": "Rossіyany and zoseredzheny operating mode",
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about.",
+                        "boldTextMain": "Memory itself will not give anything on its own. Tobto, obviously, as if you need a blatant manifestation, then the very same ones that give only a superficial hit to a blatant manifestation. Ale, as it is necessary to form the same work with technology, to read a new language - most of the dry material of the theory, just go through the pov.",
+                        "nextText": "It is my fault to focus on the very practical wisdom, and to gain theoretical knowledge in the context of current tasks."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": "And here the emotions are overbearing. It’s not bad, as it’s not a dry presentation of the tone of the material, but a communication with practice, and the successful completion of small practical tasks calls out positive emotions. The joy of success in small croques on the basis of practical acquired theoretical material is the very factor that will help you to easily formulate a clear impression in the light of your knowledge and from operational memory to transfer fresh knowledge from a long time to remember that molding of steel new navik. Our brain is uniquely collapsible, more of optimizations to save resources, and for the concentration you need to work much more, lower for the rozsiyana work. It’s better to help him, and don’t turn on the zoseredzheny regime for whatever you can, depending on the specific task. Alas, it is not possible to prac- tice for a protected regime. An hour of effective and efficient work of the surroundings. Ale, zreshtoyu, to my own fault in the rossiyanom mode, I transferred the new novice from my operational short-line memory to the old friend. We don’t respect what we lazily procrastinate, we respect what matters to us. І tse - normal. In order to make the task of pratsyuvati zoseredzheno easier, it is necessary to increase the deprivation of those who are overwhelmed at the given moment. Chotiri admissible tasks, yakі є maximum for a person at one moment to an hour, best surround one, and make the learning process easier for your brain."
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Creating Great Gutenberg WordPress Blocks",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/3.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 4,
+                "title": "Is it procrastination?",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/4.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ..."
+            },
+            {
+                "id": 5,
+                "title": "Creation of an online store OpenCart 3x independently",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/5.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 1,
+                "title": "Changing image resizing with the ImageMagick console utility",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/1.jpg",
+                "titleAlt": "image",
+                "content": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "link": "read more",
+                "isMainTextBlog": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. "
+                    },
+                    {
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": ""
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "How to learn new beginners easily",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/2.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, and practice all your life for your chosen profession. Ale people are smart in unique tasks, in some kind of folding. It is especially worthwhile for the very quiet tasks, in which failures were experienced. And not far away, try to master a new, actually, warehouse way."
+                    },
+                    {
+                        "title": "Rossіyany and zoseredzheny operating mode",
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about.",
+                        "boldTextMain": "Memory itself will not give anything on its own. Tobto, obviously, as if you need a blatant manifestation, then the very same ones that give only a superficial hit to a blatant manifestation. Ale, as it is necessary to form the same work with technology, to read a new language - most of the dry material of the theory, just go through the pov.",
+                        "nextText": "It is my fault to focus on the very practical wisdom, and to gain theoretical knowledge in the context of current tasks."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": "And here the emotions are overbearing. It’s not bad, as it’s not a dry presentation of the tone of the material, but a communication with practice, and the successful completion of small practical tasks calls out positive emotions. The joy of success in small croques on the basis of practical acquired theoretical material is the very factor that will help you to easily formulate a clear impression in the light of your knowledge and from operational memory to transfer fresh knowledge from a long time to remember that molding of steel new navik. Our brain is uniquely collapsible, more of optimizations to save resources, and for the concentration you need to work much more, lower for the rozsiyana work. It’s better to help him, and don’t turn on the zoseredzheny regime for whatever you can, depending on the specific task. Alas, it is not possible to prac- tice for a protected regime. An hour of effective and efficient work of the surroundings. Ale, zreshtoyu, to my own fault in the rossiyanom mode, I transferred the new novice from my operational short-line memory to the old friend. We don’t respect what we lazily procrastinate, we respect what matters to us. І tse - normal. In order to make the task of pratsyuvati zoseredzheno easier, it is necessary to increase the deprivation of those who are overwhelmed at the given moment. Chotiri admissible tasks, yakі є maximum for a person at one moment to an hour, best surround one, and make the learning process easier for your brain."
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Creating Great Gutenberg WordPress Blocks",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/3.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 4,
+                "title": "Is it procrastination?",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/4.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ..."
+            },
+            {
+                "id": 5,
+                "title": "Creation of an online store OpenCart 3x independently",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/5.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 1,
+                "title": "Changing image resizing with the ImageMagick console utility",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/1.jpg",
+                "titleAlt": "image",
+                "content": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "link": "read more",
+                "isMainTextBlog": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. "
+                    },
+                    {
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": ""
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "How to learn new beginners easily",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/2.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, and practice all your life for your chosen profession. Ale people are smart in unique tasks, in some kind of folding. It is especially worthwhile for the very quiet tasks, in which failures were experienced. And not far away, try to master a new, actually, warehouse way."
+                    },
+                    {
+                        "title": "Rossіyany and zoseredzheny operating mode",
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about.",
+                        "boldTextMain": "Memory itself will not give anything on its own. Tobto, obviously, as if you need a blatant manifestation, then the very same ones that give only a superficial hit to a blatant manifestation. Ale, as it is necessary to form the same work with technology, to read a new language - most of the dry material of the theory, just go through the pov.",
+                        "nextText": "It is my fault to focus on the very practical wisdom, and to gain theoretical knowledge in the context of current tasks."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": "And here the emotions are overbearing. It’s not bad, as it’s not a dry presentation of the tone of the material, but a communication with practice, and the successful completion of small practical tasks calls out positive emotions. The joy of success in small croques on the basis of practical acquired theoretical material is the very factor that will help you to easily formulate a clear impression in the light of your knowledge and from operational memory to transfer fresh knowledge from a long time to remember that molding of steel new navik. Our brain is uniquely collapsible, more of optimizations to save resources, and for the concentration you need to work much more, lower for the rozsiyana work. It’s better to help him, and don’t turn on the zoseredzheny regime for whatever you can, depending on the specific task. Alas, it is not possible to prac- tice for a protected regime. An hour of effective and efficient work of the surroundings. Ale, zreshtoyu, to my own fault in the rossiyanom mode, I transferred the new novice from my operational short-line memory to the old friend. We don’t respect what we lazily procrastinate, we respect what matters to us. І tse - normal. In order to make the task of pratsyuvati zoseredzheno easier, it is necessary to increase the deprivation of those who are overwhelmed at the given moment. Chotiri admissible tasks, yakі є maximum for a person at one moment to an hour, best surround one, and make the learning process easier for your brain."
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Creating Great Gutenberg WordPress Blocks",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/3.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 4,
+                "title": "Is it procrastination?",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/4.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ..."
+            },
+            {
+                "id": 5,
+                "title": "Creation of an online store OpenCart 3x independently",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/5.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 1,
+                "title": "Changing image resizing with the ImageMagick console utility",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/1.jpg",
+                "titleAlt": "image",
+                "content": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "link": "read more",
+                "isMainTextBlog": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. "
+                    },
+                    {
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": ""
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "How to learn new beginners easily",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/2.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, and practice all your life for your chosen profession. Ale people are smart in unique tasks, in some kind of folding. It is especially worthwhile for the very quiet tasks, in which failures were experienced. And not far away, try to master a new, actually, warehouse way."
+                    },
+                    {
+                        "title": "Rossіyany and zoseredzheny operating mode",
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about.",
+                        "boldTextMain": "Memory itself will not give anything on its own. Tobto, obviously, as if you need a blatant manifestation, then the very same ones that give only a superficial hit to a blatant manifestation. Ale, as it is necessary to form the same work with technology, to read a new language - most of the dry material of the theory, just go through the pov.",
+                        "nextText": "It is my fault to focus on the very practical wisdom, and to gain theoretical knowledge in the context of current tasks."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": "And here the emotions are overbearing. It’s not bad, as it’s not a dry presentation of the tone of the material, but a communication with practice, and the successful completion of small practical tasks calls out positive emotions. The joy of success in small croques on the basis of practical acquired theoretical material is the very factor that will help you to easily formulate a clear impression in the light of your knowledge and from operational memory to transfer fresh knowledge from a long time to remember that molding of steel new navik. Our brain is uniquely collapsible, more of optimizations to save resources, and for the concentration you need to work much more, lower for the rozsiyana work. It’s better to help him, and don’t turn on the zoseredzheny regime for whatever you can, depending on the specific task. Alas, it is not possible to prac- tice for a protected regime. An hour of effective and efficient work of the surroundings. Ale, zreshtoyu, to my own fault in the rossiyanom mode, I transferred the new novice from my operational short-line memory to the old friend. We don’t respect what we lazily procrastinate, we respect what matters to us. І tse - normal. In order to make the task of pratsyuvati zoseredzheno easier, it is necessary to increase the deprivation of those who are overwhelmed at the given moment. Chotiri admissible tasks, yakі є maximum for a person at one moment to an hour, best surround one, and make the learning process easier for your brain."
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Creating Great Gutenberg WordPress Blocks",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/3.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 4,
+                "title": "Is it procrastination?",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/4.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ..."
+            },
+            {
+                "id": 5,
+                "title": "Creation of an online store OpenCart 3x independently",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/5.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 1,
+                "title": "Changing image resizing with the ImageMagick console utility",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/1.jpg",
+                "titleAlt": "image",
+                "content": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "link": "read more",
+                "isMainTextBlog": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. "
+                    },
+                    {
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": ""
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "How to learn new beginners easily",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/2.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, and practice all your life for your chosen profession. Ale people are smart in unique tasks, in some kind of folding. It is especially worthwhile for the very quiet tasks, in which failures were experienced. And not far away, try to master a new, actually, warehouse way."
+                    },
+                    {
+                        "title": "Rossіyany and zoseredzheny operating mode",
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about.",
+                        "boldTextMain": "Memory itself will not give anything on its own. Tobto, obviously, as if you need a blatant manifestation, then the very same ones that give only a superficial hit to a blatant manifestation. Ale, as it is necessary to form the same work with technology, to read a new language - most of the dry material of the theory, just go through the pov.",
+                        "nextText": "It is my fault to focus on the very practical wisdom, and to gain theoretical knowledge in the context of current tasks."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": "And here the emotions are overbearing. It’s not bad, as it’s not a dry presentation of the tone of the material, but a communication with practice, and the successful completion of small practical tasks calls out positive emotions. The joy of success in small croques on the basis of practical acquired theoretical material is the very factor that will help you to easily formulate a clear impression in the light of your knowledge and from operational memory to transfer fresh knowledge from a long time to remember that molding of steel new navik. Our brain is uniquely collapsible, more of optimizations to save resources, and for the concentration you need to work much more, lower for the rozsiyana work. It’s better to help him, and don’t turn on the zoseredzheny regime for whatever you can, depending on the specific task. Alas, it is not possible to prac- tice for a protected regime. An hour of effective and efficient work of the surroundings. Ale, zreshtoyu, to my own fault in the rossiyanom mode, I transferred the new novice from my operational short-line memory to the old friend. We don’t respect what we lazily procrastinate, we respect what matters to us. І tse - normal. In order to make the task of pratsyuvati zoseredzheno easier, it is necessary to increase the deprivation of those who are overwhelmed at the given moment. Chotiri admissible tasks, yakі є maximum for a person at one moment to an hour, best surround one, and make the learning process easier for your brain."
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Creating Great Gutenberg WordPress Blocks",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/3.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 4,
+                "title": "Is it procrastination?",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/4.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ..."
+            },
+            {
+                "id": 5,
+                "title": "Creation of an online store OpenCart 3x independently",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/5.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 1,
+                "title": "Changing image resizing with the ImageMagick console utility",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/1.jpg",
+                "titleAlt": "image",
+                "content": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "link": "read more",
+                "isMainTextBlog": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. "
+                    },
+                    {
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": ""
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "How to learn new beginners easily",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/2.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, and practice all your life for your chosen profession. Ale people are smart in unique tasks, in some kind of folding. It is especially worthwhile for the very quiet tasks, in which failures were experienced. And not far away, try to master a new, actually, warehouse way."
+                    },
+                    {
+                        "title": "Rossіyany and zoseredzheny operating mode",
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about.",
+                        "boldTextMain": "Memory itself will not give anything on its own. Tobto, obviously, as if you need a blatant manifestation, then the very same ones that give only a superficial hit to a blatant manifestation. Ale, as it is necessary to form the same work with technology, to read a new language - most of the dry material of the theory, just go through the pov.",
+                        "nextText": "It is my fault to focus on the very practical wisdom, and to gain theoretical knowledge in the context of current tasks."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": "And here the emotions are overbearing. It’s not bad, as it’s not a dry presentation of the tone of the material, but a communication with practice, and the successful completion of small practical tasks calls out positive emotions. The joy of success in small croques on the basis of practical acquired theoretical material is the very factor that will help you to easily formulate a clear impression in the light of your knowledge and from operational memory to transfer fresh knowledge from a long time to remember that molding of steel new navik. Our brain is uniquely collapsible, more of optimizations to save resources, and for the concentration you need to work much more, lower for the rozsiyana work. It’s better to help him, and don’t turn on the zoseredzheny regime for whatever you can, depending on the specific task. Alas, it is not possible to prac- tice for a protected regime. An hour of effective and efficient work of the surroundings. Ale, zreshtoyu, to my own fault in the rossiyanom mode, I transferred the new novice from my operational short-line memory to the old friend. We don’t respect what we lazily procrastinate, we respect what matters to us. І tse - normal. In order to make the task of pratsyuvati zoseredzheno easier, it is necessary to increase the deprivation of those who are overwhelmed at the given moment. Chotiri admissible tasks, yakі є maximum for a person at one moment to an hour, best surround one, and make the learning process easier for your brain."
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Creating Great Gutenberg WordPress Blocks",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/3.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 4,
+                "title": "Is it procrastination?",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/4.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ..."
+            },
+            {
+                "id": 5,
+                "title": "Creation of an online store OpenCart 3x independently",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/5.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 1,
+                "title": "Changing image resizing with the ImageMagick console utility",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/1.jpg",
+                "titleAlt": "image",
+                "content": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "link": "read more",
+                "isMainTextBlog": "For some reason, as the site's image directory started to take a lot of time, and it's impossible to change the file size of the site's scripts, you can locally run this task for ImageMagick's help. To change the size of one image input.jpg to 100 px width, …",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. "
+                    },
+                    {
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": ""
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "How to learn new beginners easily",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/2.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "blogTexts": [
+                    {
+                        "text": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, and practice all your life for your chosen profession. Ale people are smart in unique tasks, in some kind of folding. It is especially worthwhile for the very quiet tasks, in which failures were experienced. And not far away, try to master a new, actually, warehouse way."
+                    },
+                    {
+                        "title": "Rossіyany and zoseredzheny operating mode",
+                        "text": "Our brain can be practiced in two modes - pink and zoned. Proceed in detail in the book “Think Like a Mathematician” by Barbara Oakley. Concentration in the sedentary regime will require deyaky zusil, and it is impossible to lose in the “operational memory” of our brain more than some tasks. Our short-line memory is fringed. That's why it's best and most productive to focus on one thing and not on what else to think about.",
+                        "boldTextMain": "Memory itself will not give anything on its own. Tobto, obviously, as if you need a blatant manifestation, then the very same ones that give only a superficial hit to a blatant manifestation. Ale, as it is necessary to form the same work with technology, to read a new language - most of the dry material of the theory, just go through the pov.",
+                        "nextText": "It is my fault to focus on the very practical wisdom, and to gain theoretical knowledge in the context of current tasks."
+                    },
+                    {
+                        "title": "Emotions for new recruits",
+                        "text": "And here the emotions are overbearing. It’s not bad, as it’s not a dry presentation of the tone of the material, but a communication with practice, and the successful completion of small practical tasks calls out positive emotions. The joy of success in small croques on the basis of practical acquired theoretical material is the very factor that will help you to easily formulate a clear impression in the light of your knowledge and from operational memory to transfer fresh knowledge from a long time to remember that molding of steel new navik. Our brain is uniquely collapsible, more of optimizations to save resources, and for the concentration you need to work much more, lower for the rozsiyana work. It’s better to help him, and don’t turn on the zoseredzheny regime for whatever you can, depending on the specific task. Alas, it is not possible to prac- tice for a protected regime. An hour of effective and efficient work of the surroundings. Ale, zreshtoyu, to my own fault in the rossiyanom mode, I transferred the new novice from my operational short-line memory to the old friend. We don’t respect what we lazily procrastinate, we respect what matters to us. І tse - normal. In order to make the task of pratsyuvati zoseredzheno easier, it is necessary to increase the deprivation of those who are overwhelmed at the given moment. Chotiri admissible tasks, yakі є maximum for a person at one moment to an hour, best surround one, and make the learning process easier for your brain."
+                    },
+                    {
+                        "title": "What else can you do to help yourself?",
+                        "text": "Motivation plays a great role in learning. Ale won є tezh emotsіynoyu warehouse, and chim yaskravіshi і pozitivnіshi emotsії vyklkaє subject motivatsії, chim more won, it is more joy to bring success to vikonanyh tasks and it is easier to learn the process of learning. Motivation can lay the foundation for a long-term education and not be deprived of the right, if there are not enough positive battles through marriage for success in small children.",
+                        "isBoldText": "Great help to shy away in small crumbs."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Creating Great Gutenberg WordPress Blocks",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/3.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            },
+            {
+                "id": 4,
+                "title": "Is it procrastination?",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/4.jpg",
+                "titleAlt": "image",
+                "content": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ...",
+                "link": "read more",
+                "isMainTextBlog": "The world is changing rapidly, and now we can get new skills and change the profession so quickly, as if it were fun. To be competitive in today's world, as much as possible, to get better and learn new skills. Now close the initial mortgage, ..."
+            },
+            {
+                "id": 5,
+                "title": "Creation of an online store OpenCart 3x independently",
+                "date": "07.03.2020",
+                "author": "admin",
+                "image": "/src/assets/images/5.jpg",
+                "titleAlt": "image",
+                "content": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …",
+                "link": "read more",
+                "isMainTextBlog": "To work, you need to install npm and Node.js and WordPress on a local npx server, you will need npm 5.2+ You may need to check the version of npm and Node.js: npm -v node -v Global install create-guten-block npm install -g create-guten- block …"
+            }
+        ]
+    }
+}

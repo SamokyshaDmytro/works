@@ -1,0 +1,349 @@
+{
+    "data": {
+        "portfolioCard": [
+            {
+                "id": 1,
+                "general" : "all",
+                "category" : "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "1 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 2,
+                "general": "all",
+                "category": "Apps",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "2 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image2.jpg"
+            },
+            {
+                "id": 3,
+                "general": "all",
+                "category": "Saas projects",
+                "title": "Elit Riel",
+                "subTitle": "Web programming",
+                "textUnderImg": "3 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image3.jpg"
+            },
+            {
+                "id": 4,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "4 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+                        {
+                "id": 5,
+                "general" : "all",
+                "category" : "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "5 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 6,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "6 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 7,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "7 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 8,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "8 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 9,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "9 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 10,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "10 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 11,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "11 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 12,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "12 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 13,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "13 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 14,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "14 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 15,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "15 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 16,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "16 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 17,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "17 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 18,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "18 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 19,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "19",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 1,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "1 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 2,
+                "general": "all",
+                "category": "Apps",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "2 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image2.jpg"
+            },
+            {
+                "id": 3,
+                "general": "all",
+                "category": "Saas projects",
+                "title": "Elit Riel",
+                "subTitle": "Web programming",
+                "textUnderImg": "3 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image3.jpg"
+            },
+            {
+                "id": 4,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "4 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 5,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "5 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 6,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "6 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 7,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "7 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 8,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "8 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 9,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "9 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 10,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "10 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 11,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "11 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 12,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "12 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 13,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "13 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 14,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "14 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 15,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "15 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 16,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "16 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 17,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "17 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 18,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "18 Design and development of an adaptive website design concept for a platform that provides online tutors",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            },
+            {
+                "id": 19,
+                "general": "all",
+                "category": "Stores",
+                "title": "Nicoflex",
+                "subTitle": "HTML та CSS верстання",
+                "textUnderImg": "19",
+                "image": "/src/assets/images/portfolio/image1.jpg"
+            }
+            
+        ]
+    }
+}

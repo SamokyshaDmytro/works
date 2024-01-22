@@ -1,0 +1,14 @@
+{
+"form": {
+    "name": "Name",
+    "phone": "Phone",
+    "email": "E-mail",
+    "message": "Text",
+    "send": "Send",
+    "isNameInvalid": "Please enter your name",
+    "isPhoneInvalid": "Please enter a valid phone number",
+    "isPhoneFormatInvalid": "Enter the number in international format",
+    "isEmailInvalid": "Please enter a valid email address",
+    "isMessageInvalid": "Please enter a message"
+}
+}
