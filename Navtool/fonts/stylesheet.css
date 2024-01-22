@@ -1,0 +1,47 @@
+
+@font-face {
+    font-family: 'noto_sansregular';
+    src: url('notosans-regular-webfont.woff2') format('woff2'),
+         url('notosans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'noto_sansmedium';
+    src: url('notosans-medium-webfont.woff2') format('woff2'),
+         url('notosans-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'noto_sanssemibold';
+    src: url('notosans-semibold-webfont.woff2') format('woff2'),
+         url('notosans-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'interregular';
+    src: url('inter-regular-webfont.woff2') format('woff2'),
+         url('inter-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'intersemi_bold';
+    src: url('inter-semibold-webfont.woff2') format('woff2'),
+         url('inter-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bai_jamjuree_mediumregular';
+    src: url('baijamjureemedium-webfont.woff2') format('woff2'),
+         url('baijamjureemedium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
